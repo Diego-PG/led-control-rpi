@@ -12,3 +12,24 @@
 	background-color: #ff0000;
 	font-size: 500%;
 }
+.red {
+	width: 95%;
+	height: 30%;
+	color: #000000;
+	background-color: #ff0000;
+	font-size: 500%;
+}
+.green {
+	width: 95%;
+	height: 30%;
+	color: #000000;
+	background-color: #008000;
+	font-size: 500%;
+}
+.blue {
+	width: 95%;
+	height: 30%;
+	color: #000000;
+	background-color: #0000ff;
+	font-size: 500%;
+}
